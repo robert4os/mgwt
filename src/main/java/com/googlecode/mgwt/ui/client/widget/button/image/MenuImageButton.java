@@ -21,6 +21,6 @@ import com.googlecode.mgwt.ui.client.widget.image.ImageHolder;
 
 public class MenuImageButton extends ImageButton {
   public MenuImageButton() {
-    super(ImageHolder.get().back());
+    super(ImageHolder.get().menu());
   }
 }
